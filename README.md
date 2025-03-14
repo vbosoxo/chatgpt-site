@@ -1,13 +1,13 @@
-# ChatGPT 中文版：国内访问指南（支持GPT-4o，无需翻墙）【2025年3月13日更新】
+# ChatGPT 中文版：国内访问指南（支持GPT-4o、GPT-o3、deepseek、grok3，无需翻墙）【2025年3月15日更新】
 
-> 更新时间：2025/03/13
+> 更新时间：2025/03/15
 >
 > 作者：vbosoxo
 
 # 最新 ChatGPT 使用指南，无需翻墙，轻松使用上 ChatGPT 中文版~
 
 本文提供 ChatGPT 中文版的使用方法，包括 ChatGPT 镜像网站推荐以及常见问题解答。  
-助您在生活、学习和工作中使用上 ChatGPT，并享受无限制的 GPT-4、4o 和 o1 模型服务。
+助您在生活、学习和工作中使用上 ChatGPT，并享受无限制的 GPT-4、4o 和 o1、GPT-o3、deepseek、grok3 模型服务。
 
 ---
 
@@ -39,7 +39,7 @@
 
 | **ChatGPT镜像网站** | **地址**                  | **支持版本**         | **免费额度** | **注册方式** | **稳定性** | **功能亮点**                                          |
 |---------------------|---------------------------|----------------------|--------------|--------------|------------|-------------------------------------------------------|
-| 松鼠AI              | [songshugpt.com](https://songshugpt.com)  | GPT-4、4o、o1        | 有           | 扫码即可     | 高         | 支持 AI绘画、AI助手、AI插件、AI PPT等                     |
+| 松鼠AI              | [songshugpt.com](https://songshugpt.com)  | GPT-4、GPT-4o、GPT-o1、GPT-o3、deepseek、grok3       | 有           | 扫码即可     | 高         | 支持 AI绘画、AI助手、AI插件、AI PPT等                     |
 | 狗狗GPT           | [gptdog.online](https://gptdog.online)     | GPT-4o、4o mini、o1  | 有           | 扫码即可     | 高         | 支持多模型，AI写作、AI编程、AI办公~                        |
 | 猫Chat         | [gptcat.net](https://gptcat.net)           | GPT-4、o1            | 有           | 扫码即可     | 高         | 稳定快速，各种AI工具~                                   |
 | 真我GPT             | [givemegpt.top](https://givemegpt.top) | GPT-4、o1            | 有           | 扫码即可     | 高         | AI使用指南                                           |
