@@ -39,7 +39,7 @@
 
 | **ChatGPT镜像网站** | **地址**                  | **支持版本**         | **免费额度** | **注册方式** | **稳定性** | **功能亮点**                                          |
 |---------------------|---------------------------|----------------------|--------------|--------------|------------|-------------------------------------------------------|
-| 松鼠AI              | [songshugpt.com](https://songshugpt.com)  | GPT-4、GPT-4o、GPT-o1、GPT-o3、deepseek、grok3       | 有           | 扫码即可     | 高         | 支持 AI绘画、AI助手、AI插件、AI PPT等                     |
+| 松鼠AI              | [www.songshugpt.com](https://www.songshugpt.com)  | GPT-4、GPT-4o、GPT-o1、GPT-o3、deepseek、grok3       | 有           | 扫码即可     | 高         | 支持 AI绘画、AI助手、AI插件、AI PPT等                     |
 | 狗狗GPT           | [gptdog.online](https://gptdog.online)     | GPT-4o、4o mini、o1  | 有           | 扫码即可     | 高         | 支持多模型，AI写作、AI编程、AI办公~                        |
 | 猫Chat         | [gptcat.net](https://gptcat.net)           | GPT-4、o1            | 有           | 扫码即可     | 高         | 稳定快速，各种AI工具~                                   |
 | 真我GPT             | [givemegpt.top](https://givemegpt.top) | GPT-4、o1            | 有           | 扫码即可     | 高         | AI使用指南                                           |
